@@ -1,0 +1,15 @@
+Deutsch 3
+Mathematik 4
+Englisch 3
+Franzoesisch 3
+Biologie 2
+Geographie 2
+Geschichte 2
+Physik 2
+Chemie 2
+Musik 1
+BildendeKunst 1
+Sport 3
+Religion/Ethik 2
+Gemeinschaftskunde 1
+Informatik 1

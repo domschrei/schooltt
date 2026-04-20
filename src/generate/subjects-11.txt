@@ -1,0 +1,16 @@
+Deutsch 4
+Mathematik 4
+Englisch 4
+Franzoesisch 4
+Geschichte 2
+Geographie 2
+Gemeinschaftskunde 2
+Wirtschaft 4
+Religion/Ethik 2
+Physik 4
+Chemie 2
+Biologie 2
+Musik 4
+BildendeKunst 2
+Sport 2
+Seminarkurs 2
